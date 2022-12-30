@@ -13,7 +13,7 @@
     "@truffle/hdwallet-provider": "^1.0.42"
   },
   "dependencies": {
-    "truffle": "^5.1.39"
+    "truffle": "^5.7.1"
   },
   "directories": {
     "test": "test"
